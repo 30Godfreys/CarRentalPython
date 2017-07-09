@@ -1,0 +1,41 @@
+Make,Model,Year,Size,Body_Type,Door_No,Capacity,Engine ,Transmition 
+BMW,3-Series,2016,Medium car,Saloon,4,5,Diesel,Manual
+BMW,3-Series,2016,Medium car,Estate,5,5,Diesel,Automatic 
+BMW,3-Series,2017,Medium car,Hatchback,5,5,Diesel,Manual
+BMW,3-Series,2017,Medium car,Saloon,4,5,Hybrid,Automatic 
+Ford,Fusion,2017,Medium car,Saloon,4,5,Hybrid,Automatic 
+Honda,Civic,2016,Compact car,Hatchback,3,5,Diesel,Automatic 
+Ford,C-Max,2017,Compact car,Saloon,4,5,Hybrid,Automatic 
+Honda,Civic,2016,Compact car,Saloon,4,5,Hybrid,Automatic 
+Honda,Civic,2016,Medium car,Estate,5,5,Diesel,Manual
+Volkswagen,Golf,2017,Compact car,Hatchback,5,5,Diesel,Manual
+Volkswagen,Passat,2017,Compact car,Hatchback,5,5,Petrol,Manual
+Volkswagen,Polo,2016,Compact car,Hatchback,5,5,Petrol,Manual
+Volkswagen,e-Golf,2017,Compact car,Hatchback,5,5,Electric,Manual
+Volkswagen,Jetta,2005,Compact car,Hatchback,5,5,Petrol,Manual
+Volkswagen,e-Golf,2017,Compact car,Hatchback,5,5,Electric,Automatic 
+Volkswagen,e-Golf,2016,Compact car,Hatchback,5,5,Electric,Automatic 
+Volkswagen,e-Golf,2017,Compact car,Hatchback,5,5,Electric,Automatic 
+Volkswagen,e-Golf,2017,Compact car,MPV,5,5,Electric,Manual
+Volkswagen,Bora,2016,Compact car,Estate,5,5,Petrol,Manual
+Volkswagen,Caddy,2017,Compact car,Estate,5,5,Petrol,Manual
+Volkswagen,Bettle,2016,Compact car,Hatchback,3,3,Petrol,Manual
+Volkswagen,Golf,2017,Compact car,Estate,5,5,Petrol,Manual
+Volkswagen,Golf,2004,Compact car,Estate,5,5,Diesel,Manual
+Telsa,Model S,2013,Large car,Saloon,5,5,Electric,Manual
+Nissan,Leaf,2012,Medium car,Saloon,5,5,Electric,Manual
+Renault ,Zoe,2011,Small car,Hatchback,3,3,Electric,Manual
+Toyota,Prius C,2011,Medium car,Hatchback,5,5,Hybrid,Manual
+Honda ,Accord,2014,Medium car,Saloon,5,5,Hybrid,Manual
+Ford,Fiesta,2016,Compact car,Hatchback,3,3,Diesel,Manual
+Suzuki,Swift,2017,Compact car,Hatchback,3,3,Diesel,Manual
+Renault,Clio,2015,Compact car,Hatchback,3,3,Diesel,Manual
+Ford,Ka,2005,Compact car,Hatchback,3,3,Diesel,Automatic 
+Opel,Corsa,2007,Compact car,Hatchback,5,5,Diesel,Automatic 
+Opel,Astra,2009,Medium car,Hatchback,5,5,Petrol,Automatic 
+Opel,Omega,2010,Medium car,Hatchback,5,5,Petrol,Automatic 
+Opel,Vectra,2013,Medium car,Hatchback,5,5,Petrol,Automatic 
+Mazda,Demio,2016,Compact car,Hatchback,3,3,Petrol,Automatic 
+Toyota,Corolla,2000,Medium car,Saloon,5,5,Petrol,Manual
+Toyota,Yaris,2015,Compact car,Hatchback,3,3,Petrol,Manual
+Toyota,Corona,2017,Medium car,Saloon,5,5,Petrol,Manual
